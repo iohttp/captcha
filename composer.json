@@ -1,5 +1,5 @@
 {
-	"name": "mews/captcha",
+	"name": "iohttp/captcha",
 	"type": "package",
 	"description": "Laravel 5-10 Captcha Package",
 	"keywords": ["Security", "Captcha", "Laravel", "laravel 10"],
